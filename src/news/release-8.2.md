@@ -9,7 +9,7 @@ macos_signature: y1eQEMLptcV0W9vB+gbfXuz2auwdU+TnP3+jNINiydafel9OikCWSeGBuXxsqRl
 tags:
   - release
 ---
-
+.
 Hello there!
 
 We forgot to update the version number in our last release! In case you missed it, check out [the release post](../release-8.1/)
